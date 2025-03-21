@@ -25,14 +25,11 @@
                 </exclusion>
             </exclusions>
         </dependency>
-
         <!-- 日志管理log4j2 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-log4j2</artifactId>
-            <version>2.1.0.RELEASE</version>
         </dependency>
-
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
